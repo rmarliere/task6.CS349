@@ -1,11 +1,11 @@
 package task6.money;
 
 /**
- * com.money
- * Author: RodrigoMarliere
+ * task6.money
+ * Author: Rodrigo de Barros Marliere
  * Revision date: 11/13/14
- * Assignment:
- * Class:
+ * Assignment: Task 6
+ * Class: CS 349
  */
 
 public class CurrencyCoinCent_10 extends A_CurrencyCoin
