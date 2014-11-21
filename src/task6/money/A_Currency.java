@@ -8,7 +8,7 @@ package task6.money;
  * Class: CS 349
  */
 
-public class A_Currency implements Comparable<A_Currency>
+public abstract class A_Currency implements Comparable<A_Currency>
 {
     private final Money _money;
     private final String _description;

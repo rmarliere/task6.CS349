@@ -8,7 +8,7 @@ package task6.money;
  * Class: CS 349
  */
 
-public class A_CurrencyPaper extends A_Currency
+public abstract class A_CurrencyPaper extends A_Currency
 {
     public A_CurrencyPaper(Money money, java.lang.String description)
     {
